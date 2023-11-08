@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['212600446183', 'XBLACK-ZELX', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['212600446183','212600446183'] 
+global.prems = ['212600446183', '212600446183', '212600446183']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,31 +47,31 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '# 𝐆𝐁𝐗 /#/ 𝑵𝑨𝑹𝑪𝑰𝑺𝑺𝑰𝑺𝑻𝑰𝑪 !>'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
+global.packname = '# 𝐆𝐁𝐗 /#/ 𝑵𝑨𝑹𝑪𝑰𝑺𝑺𝑰𝑺𝑻𝑰𝑪 !>👻# 𝐆𝐁𝐗 /#/ 𝑵𝑨𝑹𝑪𝑰𝑺𝑺𝑰𝑺𝑻𝑰𝑪 !>🤖' 
 global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/faraji_ro7ani?utm_source=qr&igshid=OGIxMTE0OTdkZA==\n' 
+global.dygp = 'https://chat.whatsapp.com/LWpF2N5ufh87psoMpd9c3p'
+global.fgsc = 'HEY USER ! NO SCRIPT BOT ME NUMBER 212600446183 CHATE ME !' 
+global.fgyt = 'wa.me//212600446183 ME NUMBER !👻❤'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.fglog = 'https://telegra.ph/file/2c9a77a3a2570ebd34004.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
 
 //Dont Edit Danger Zone⚠️
-global.wait = '*⌛ _Please Wait..._*'
+global.wait = '*👻 _PLEASE WAIT ! _*'
 global.rwait = '⌛'
-global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
-global.mlc = '📃'
-global.sdc = '🎶'
-global.xmoji = '🔥' 
+global.dmoji = '🤖'
+global.done = '😍😋😊❤👻'
+global.error = '❌🤣😂🤣😜' 
+global.mlc = '🕕🕔🕓🕒🕑🕐🕧✅'
+global.sdc = '😉💋❤💥💦🎶✅'
+global.xmoji = '❤😁🔥' 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
